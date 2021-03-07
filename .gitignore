@@ -1,3 +1,20 @@
+#my
+Image
+myfloppy.img
+
+
+boot/bootsect
+boot/bootsect.s
+boot/setup
+boot/setup.s
+
+tools/build
+tools/system
+tools/system.bin
+tools/system_with_symbol
+tools/system_with_symbol.bin
+
+
 # Prerequisites
 *.d
 
